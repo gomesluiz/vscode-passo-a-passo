@@ -20,7 +20,7 @@ Este guia reúne recursos para quem está começando a programar com o Visual St
 
 ## 📺 Cursos em Vídeo
 
-- [Introdução ao C# e .NET no VS Code ()](https://www.youtube.com/watch?v=B-s71n0dHUk)
+- [Introdução ao C# e .NET no VS Code](https://www.youtube.com/watch?v=B-s71n0dHUk)
   - Curso oficial da Microsoft para inicianntes (em inglês)
   - 10 minutos de conteúdo
   - Conceitos básicos e avançados
