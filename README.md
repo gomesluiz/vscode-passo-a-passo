@@ -20,13 +20,13 @@ Este guia reúne recursos para quem está começando a programar com o Visual St
 
 ## 📺 Cursos em Vídeo
 
-- [Curso Completo de C# para Iniciantes](https://www.youtube.com/watch?v=RYb-9uaX-eo)
-  - Curso gratuito em português
-  - 3 horas de conteúdo
+- [Introdução ao C# e .NET no VS Code ()](https://www.youtube.com/watch?v=B-s71n0dHUk)
+  - Curso oficial da Microsoft para inicianntes (em inglês)
+  - 10 minutos de conteúdo
   - Conceitos básicos e avançados
   - Exemplos práticos
 
-## 💡 Dicas para Começar
+## 💡 Dicas para Começar com o C# e o Visual Studio Code
 
 1. Instale o Visual Studio Code
 2. Configure o SDK do .NET
